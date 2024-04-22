@@ -5,3 +5,7 @@
       fetch-registry: true
       register-with-eureka: true
       service-url: http://localhost:8761/eureka
+
+ spring:
+  application:
+   name: Config-Default
